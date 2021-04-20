@@ -1,1 +1,103 @@
-ss
+<h1 align="center">Holla</h1>
+<p align="center">
+<img src="https://raw.githubusercontent.com/meforce/holla/main/image/holla.png" style="display: block;margin-left: auto;margin-right: auto;" data-canonical-src="https://raw.githubusercontent.com/meforce/yaani/main/assets/image/yaani-logo-min.png" width="250" height="250" align="center"/><br><br>
+Holla Web Tarayıcısı<br>
+<a href="https://github.com/meforce/yaani/wiki/Bileşenler">Dokümanlar</a> |
+<a href="#user-content-i̇ndir">İndir</a> |
+<a href="#user-content-sık-sorulanlar">Sık Sorulanlar</a>
+<br><br> 
+<!--<img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/meforce/yaani/build?style=for-the-badge">-->
+<a href="https://github.com/meforce/yaani/releases/latest">
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/meforce/yaani?color=tuquoise&label=EN-SON&logo=github&logoColor=white&style=for-the-badge"></a>
+<a href="https://discord.gg/vWExS7F"><img alt="Discord" src="https://img.shields.io/discord/699656586423173161?color=%237289DA&label=discord&logo=Discord&logoColor=white&style=for-the-badge"></a>
+</p>
+
+<h4 align="center">Me Force Tarafından Bağımsız Bir Şekilde Geliştirilmektedir.</h4>
+<div align="center">Holla Web Tarayıcısı BETA</div>
+<h6 align="center">
+<a href="https://www.instagram.com/mertcetin.real">Mert Çetin</a> Tarafından Geliştirilmektedir. <br>
+Github.com üzerinden sadece geliştirmeleri ön gösterim yapmak <br>
+ve sistemi daha verimli geliştirmek için 04.12.2020 tarihinde yayına verilmiştir. <br>
+Bu projenin yayında olan dökümanları github (https://github.com/meforce/holla) dışında dağıtmak şuan da yasaktır.<br><br>
+Me Force Tüm Hakları Saklıdır.<br>
+Sorun mu var ? Hemen Bize Ulaş. <b>mertcetin.official@gmail.com</b><br>
+Daha Fazla Ve Satın Al -> <a href="#">Holla Buy</a>
+</h6>
+
+## Ekran Görüntüleri
+Uygulama içinden ekran görüntüleri<br><br>
+<img width="390" src="https://raw.githubusercontent.com/meforce/yaani/main/assets/image/newtab.JPG"/>
+<img width="390" src="https://raw.githubusercontent.com/meforce/yaani/main/assets/image/search.JPG"/>
+<img width="390" src="https://raw.githubusercontent.com/meforce/yaani/main/assets/image/settings.JPG"/>
+<img width="390" src="https://raw.githubusercontent.com/meforce/yaani/main/assets/image/history.JPG"/>
+
+
+## İndir
+
+### Windows
+
+İndir `.exe` Dosyası [Releases Sayfası](https://github.com/meforce/yaani/releases/latest).<br>
+Windows paketi Chocolatey için Yaani piyasaya sürmek bir sonraki adımımız olabilir.
+
+
+<a href="https://github.com/meforce/yaani/releases/download/v3.5.3/Yaani-Setup-3.5.3.exe"> 
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/meforce/yaani?color=blue&label=TIKLA-INDIR-WINDOWS-EXE&logo=windows&logoColor=white&style=for-the-badge"></a>
+
+### Mac
+
+İndir `.dmg` Dosyası [Releases Sayfası](https://github.com/meforce/yaani/releases/latest).<br>
+Yaani için Mac OS yapılarını buradan indirebilirsiniz. <br>
+Ne yazık ki donanım eksiliği yüzünden Mac sürümleri çok test edilemedi. (Hataları ve sorunları bize bildir.)
+
+
+<a href="https://github.com/meforce/yaani/releases/download/v3.5.3/Yaani-3.5.3.dmg"> 
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/meforce/yaani?color=blue&label=TIKLA-INDIR-MAC-DMG&logo=github&logoColor=white&style=for-the-badge"></a>
+
+### Linux
+
+Yaani için Linux yapılarını buradan indirebilirsiniz. Umarım Yaani yakın gelecekte bir Flatpak sürümüne ve muhtemelen bir RPM yapısına sahip olacaktır.<br>
+Ne yazık ki donanım eksiliği yüzünden Linux sürümleri çok test edilemedi. (Hataları ve sorunları bize bildir.)
+
+**Ubuntu, Debian ve Debian türevleri**
+
+İndir `.deb` Dosyası [Releases Sayfası](https://github.com/meforce/yaani/releases/latest).
+
+<a href="https://github.com/meforce/yaani/releases/download/v3.5.3/Yaani_3.5.3_amd64.deb"> 
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/meforce/yaani?color=blue&label=TIKLA-INDIR-LINUX-DEB&logo=linux&logoColor=white&style=for-the-badge"></a>
+
+**AppImage (Diğer her şey)**
+
+İndir `.AppImage` Dosyası [Releases Sayfası](https://github.com/meforce/yaani/releases/latest).
+
+
+<a href="https://github.com/meforce/yaani/releases/download/v3.5.3/Yaani-3.5.3.AppImage"> 
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/meforce/yaani?color=blue&label=TIKLA-INDIR-LINUX-AppImage&logo=linux&logoColor=white&style=for-the-badge"></a>
+<br>
+
+## Sık Sorulanlar
+
+### Yaani, Firefox, Opera, Chrome, Brave gibi diğer tarayıcılarıyla karşılaştırıldığında nasıldır?
+Hem Firefox hem de Brave muhteşemdir ve her gün Yaani gizlilik durumlarına giderek daha da yaklaşmaktadır. Yaani günlük olarak kullanılacak kadar iyi durumdadır. Web'in sınırlarını test etmek ve interneti daha güvenli bir yer haline getirmeye yardımcı olmak için harika bir deneyim sunar.
+
+### Neden Electron Alt Yapısı Kullanılıyor?
+Bazı insanlar genellikle yüksek bellek kullanımından dolayı Electron hakkında şüphelidir :D, ancak [Electron](https://www.electronjs.org/) geliştirme sürecini inanılmaz derecede basit hale getirir ve oldukca düşük cpu ve bellek kullanımı sunar. Electron, web teknolojilerini kullanarak bir masaüstü uygulaması oluşturmamıza izin veriyor.
+
+Chrome ile karşılaştırıldığında 1080p Video İşleme de oldukça iyi sonuçlar vermektedir.<br> 
+<img src="https://raw.githubusercontent.com/meforce/yaani/main/assets/image/karsilastirma.jpg"/>
+
+
+### Yaani ne kadar deneysel? Bununla ilgili hassas verileri henüz işleyebilir miyim?
+Şimdilik kullanmak Yaani üzerinde çok hassas bir şey yapmaktan vazgeçilmeli, hala geliştirme aşamasındadır ve hatalar her zaman olabilir ve sürekli geliştirilmektedir, 
+ancak tüm uygulamalar gibi sorunlar olabilir ve gözden kaçabilir.
+
+### [Bileşenler](https://github.com/meforce/yaani/wiki/Bile%C5%9Fenler)
+Yaani, erişilebilir şeffaflığı güçlü bir şekilde destekler. Bu dosya, tarayıcımızı oluşturan her bir bileşene, onu bulmak için kodun derinlerine inmenize gerek kalmadan size bir fikir verir.<br>
+Projede kullanılan materyallere ve bileşenleri içeren talimatlar ve dokümanlar.
+
+<a href="https://www.electronjs.org/apps">
+<img src="https://raw.githubusercontent.com/meforce/yaani/main/assets/image/electron-mores.JPG"/>
+</a>
+<br>
+<h6 align="center">Bu Proje ‎3 ‎Kasım ‎2020 ‎Salı, ‏‎15:07:21 Yapılmaya Başlanmıştır. Yapımı Ve Geliştirmesi 1 Kişiye Aittir.</h6>
+
+<a href="https://www.yaani.com.tr/policy/privacypolicy.html"><h6 align="center">YAANİ ARAMA MOTORU KULLANIM ŞARTLARI VE GİZLİLİK</h6></a>
