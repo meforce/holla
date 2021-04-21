@@ -31,13 +31,21 @@ Top Bar Variant: Compact, Tab: New Tab, Theme: Dark Theme<br>
 <img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-3.jpg"/>
 <img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-4.jpg"/>
 
-<br><br>
+<br>
 Top Bar Variant: Exact, Tab: New Tab, Theme: Light - Dark Theme<br>
 <img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-5.jpg"/>
 <img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-6.jpg"/><br>
 Open Menu, Open Ad Blocking<br>
 <img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-7.jpg"/>
 <img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-8.jpg"/>
+
+<br>
+xxx<br>
+<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-9.jpg"/>
+<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-10.jpg"/><br>
+xxx<br>
+<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-11.jpg"/>
+<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-12.jpg"/>
 
 
 ## Download
