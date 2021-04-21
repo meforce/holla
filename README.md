@@ -110,7 +110,7 @@ Holla strongly supports accessible transparency. This file gives you an insight 
 Instructions and documents containing the materials and components used in the project.
 
 <a href="https://www.electronjs.org/apps">
-<img src="https://raw.githubusercontent.com/meforce/yaani/main/assets/image/electron-mores.JPG"/>
+<img src="https://raw.githubusercontent.com/meforce/holla/main/image/moreapps.jpg"/>
 </a>
 <br>
 
