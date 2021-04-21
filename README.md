@@ -38,13 +38,19 @@ Open Menu, Open Ad Blocking<br>
 <img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-7.jpg"/>
 <img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-8.jpg"/>
 <br><br>
-xxx<br>
+Plugin, Settings<br>
 <img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-9.jpg"/>
 <img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-10.jpg"/><br>
-xxx<br>
+History, Saved<br>
 <img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-11.jpg"/>
 <img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-12.jpg"/>
-
+<br><br>
+xxxs<br>
+<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-13.jpg"/>
+<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-14.jpg"/><br>
+xxxx<br>
+<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-15.jpg"/>
+<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-16.jpg"/>
 
 ## Download
 
