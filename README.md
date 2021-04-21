@@ -31,6 +31,14 @@ New Tab Dark Theme<br>
 <img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-3.jpg"/>
 <img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-4.jpg"/>
 
+<br><br>
+New Tab Light Theme<br>
+<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-5.jpg"/>
+<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-6.jpg"/><br>
+New Tab Dark Theme<br>
+<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-7.jpg"/>
+<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-8.jpg"/>
+
 
 ## Download
 
