@@ -95,7 +95,7 @@ Hem Firefox hem de Brave muhteşemdir ve her gün Yaani gizlilik durumlarına gi
 Some people are often skeptical about Electron due to its high memory usage. :D, but [Electron](https://www.electronjs.org/) makes the development process incredibly simple and offers very low CPU and memory usage. Electron allows us to build a desktop application using web technologies.
 
 Compared to Chrome, 1080p Video Processing also gives very good results.<br> 
-<img src="https://raw.githubusercontent.com/meforce/yaani/main/assets/image/karsilastirma.jpg"/>
+<img src="https://raw.githubusercontent.com/meforce/holla/main/image/karsilastirma.jpg"/>
 
 
 ### How experimental is Holla? Can I yet process sensitive data about it?
