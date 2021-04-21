@@ -45,10 +45,10 @@ History, Saved<br>
 <img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-11.jpg"/>
 <img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-12.jpg"/>
 <br><br>
-xxxs<br>
+Downloads, Plugins<br>
 <img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-13.jpg"/>
 <img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-14.jpg"/><br>
-xxxx<br>
+More About the Sites<br>
 <img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-15.jpg"/>
 <img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-16.jpg"/>
 
