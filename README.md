@@ -3,8 +3,8 @@
 <img src="https://raw.githubusercontent.com/meforce/holla/main/image/holla.png" style="display: block;margin-left: auto;margin-right: auto;" data-canonical-src="https://raw.githubusercontent.com/meforce/yaani/main/assets/image/yaani-logo-min.png" width="250" height="250" align="center"/><br><br>
 Holla Search Engine Web Browser<br>
 <a href="https://github.com/meforce/holla/wiki">Documentation</a> |
-<a href="#user-content-i̇ndir">Download</a> |
-<a href="#user-content-sık-sorulanlar">FAQ</a>
+<a href="#download">Download</a> |
+<a href="#faq">FAQ</a>
 <br><br> 
 <!--<img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/meforce/yaani/build?style=for-the-badge">-->
 <a href="https://github.com/meforce/holla/releases/latest">
@@ -72,7 +72,7 @@ Ne yazık ki donanım eksiliği yüzünden Linux sürümleri çok test edilemedi
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/meforce/yaani?color=blue&label=TIKLA-INDIR-LINUX-AppImage&logo=linux&logoColor=white&style=for-the-badge"></a>
 <br>
 
-## Sık Sorulanlar
+## FAQ
 
 ### Yaani, Firefox, Opera, Chrome, Brave gibi diğer tarayıcılarıyla karşılaştırıldığında nasıldır?
 Hem Firefox hem de Brave muhteşemdir ve her gün Yaani gizlilik durumlarına giderek daha da yaklaşmaktadır. Yaani günlük olarak kullanılacak kadar iyi durumdadır. Web'in sınırlarını test etmek ve interneti daha güvenli bir yer haline getirmeye yardımcı olmak için harika bir deneyim sunar.
