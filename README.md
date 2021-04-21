@@ -3,6 +3,7 @@
 <img src="https://raw.githubusercontent.com/meforce/holla/main/image/holla.png" style="display: block;margin-left: auto;margin-right: auto;" data-canonical-src="https://raw.githubusercontent.com/meforce/yaani/main/assets/image/yaani-logo-min.png" width="250" height="250" align="center"/><br><br>
 Holla Search Engine Web Browser<br>
 <a href="https://github.com/meforce/holla/wiki">Documentation</a> |
+<a href="#Building">Building</a> |  
 <a href="#download">Download</a> |
 <a href="#faq">FAQ</a>
 <br><br> 
