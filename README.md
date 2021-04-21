@@ -62,7 +62,7 @@ You can download the Mac OS builds for Holla here. <br>
 Unfortunately, the Mac versions went undetected due to the lack of hardware. (Report bugs and issues to us.)
 
 
-<a href="https://github.com/meforce/yaani/releases/download/v3.5.4/Holla-3.5.4.dmg"> 
+<a href="https://github.com/meforce/holla/releases/download/v3.5.4/Holla-3.5.4.dmg"> 
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/meforce/holla?color=blue&label=CLICK-DOWNLOAD-MAC-DMG&logo=github&logoColor=white&style=for-the-badge"></a>
 
 ### Linux
