@@ -88,23 +88,23 @@ Download `.AppImage` File [Releases Page](https://github.com/meforce/holla/relea
 
 ## FAQ
 
-### Yaani, Firefox, Opera, Chrome, Brave gibi diğer tarayıcılarıyla karşılaştırıldığında nasıldır?
+### Holla: How does it compare to other browsers like Firefox, Opera, Chrome, Brave?
 Hem Firefox hem de Brave muhteşemdir ve her gün Yaani gizlilik durumlarına giderek daha da yaklaşmaktadır. Yaani günlük olarak kullanılacak kadar iyi durumdadır. Web'in sınırlarını test etmek ve interneti daha güvenli bir yer haline getirmeye yardımcı olmak için harika bir deneyim sunar.
 
-### Neden Electron Alt Yapısı Kullanılıyor?
-Bazı insanlar genellikle yüksek bellek kullanımından dolayı Electron hakkında şüphelidir :D, ancak [Electron](https://www.electronjs.org/) geliştirme sürecini inanılmaz derecede basit hale getirir ve oldukca düşük cpu ve bellek kullanımı sunar. Electron, web teknolojilerini kullanarak bir masaüstü uygulaması oluşturmamıza izin veriyor.
+### Why is Electron Infrastructure Used?
+Some people are often skeptical about Electron due to its high memory usage. :D, but [Electron](https://www.electronjs.org/) makes the development process incredibly simple and offers very low CPU and memory usage. Electron allows us to build a desktop application using web technologies.
 
-Chrome ile karşılaştırıldığında 1080p Video İşleme de oldukça iyi sonuçlar vermektedir.<br> 
+Compared to Chrome, 1080p Video Processing also gives very good results.<br> 
 <img src="https://raw.githubusercontent.com/meforce/yaani/main/assets/image/karsilastirma.jpg"/>
 
 
-### Yaani ne kadar deneysel? Bununla ilgili hassas verileri henüz işleyebilir miyim?
-Şimdilik kullanmak Yaani üzerinde çok hassas bir şey yapmaktan vazgeçilmeli, hala geliştirme aşamasındadır ve hatalar her zaman olabilir ve sürekli geliştirilmektedir, 
-ancak tüm uygulamalar gibi sorunlar olabilir ve gözden kaçabilir.
+### How experimental is Holla? Can I yet process sensitive data about it?
+For now use should stop doing anything very delicate on Holla, it is still in development and bugs can always happen and it is constantly being improved,
+however, like all applications, problems can occur and go unnoticed.
 
-### [Bileşenler](https://github.com/meforce/yaani/wiki/Bile%C5%9Fenler)
-Yaani, erişilebilir şeffaflığı güçlü bir şekilde destekler. Bu dosya, tarayıcımızı oluşturan her bir bileşene, onu bulmak için kodun derinlerine inmenize gerek kalmadan size bir fikir verir.<br>
-Projede kullanılan materyallere ve bileşenleri içeren talimatlar ve dokümanlar.
+### [Components](https://github.com/meforce/holla/wiki/Components)
+Holla strongly supports accessible transparency. This file gives you an insight into each of the components that make up our browser, without having to dig deep into the code to find it.<br>
+Instructions and documents containing the materials and components used in the project.
 
 <a href="https://www.electronjs.org/apps">
 <img src="https://raw.githubusercontent.com/meforce/yaani/main/assets/image/electron-mores.JPG"/>
