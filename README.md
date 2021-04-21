@@ -48,42 +48,42 @@ More About the Sites<br>
 
 ### Windows
 
-İndir `.exe` Dosyası [Releases Sayfası](https://github.com/meforce/yaani/releases/latest).<br>
-Windows paketi Chocolatey için Yaani piyasaya sürmek bir sonraki adımımız olabilir.
+Download `.exe` File [Releases Page](https://github.com/meforce/holla/releases/latest).<br>
+Releasing Holla for the Windows package Chocolatey could be our next step.
 
 
-<a href="https://github.com/meforce/yaani/releases/download/v3.5.3/Yaani-Setup-3.5.3.exe"> 
-<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/meforce/yaani?color=blue&label=TIKLA-INDIR-WINDOWS-EXE&logo=windows&logoColor=white&style=for-the-badge"></a>
+<a href="https://github.com/meforce/holla/releases/download/v3.5.4/Holla-Setup-3.5.4.exe"> 
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/meforce/holla?color=blue&label=CLICK-DOWNLOAD-WINDOWS-EXE&logo=windows&logoColor=white&style=for-the-badge"></a>
 
 ### Mac
 
-İndir `.dmg` Dosyası [Releases Sayfası](https://github.com/meforce/yaani/releases/latest).<br>
-Yaani için Mac OS yapılarını buradan indirebilirsiniz. <br>
-Ne yazık ki donanım eksiliği yüzünden Mac sürümleri çok test edilemedi. (Hataları ve sorunları bize bildir.)
+Download `.dmg` File [Releases Page](https://github.com/meforce/holla/releases/latest).<br>
+You can download the Mac OS builds for Holla here. <br>
+Unfortunately, the Mac versions went undetected due to the lack of hardware. (Report bugs and issues to us.)
 
 
-<a href="https://github.com/meforce/yaani/releases/download/v3.5.3/Yaani-3.5.3.dmg"> 
-<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/meforce/yaani?color=blue&label=TIKLA-INDIR-MAC-DMG&logo=github&logoColor=white&style=for-the-badge"></a>
+<a href="https://github.com/meforce/yaani/releases/download/v3.5.4/Holla-3.5.4.dmg"> 
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/meforce/holla?color=blue&label=CLICK-DOWNLOAD-MAC-DMG&logo=github&logoColor=white&style=for-the-badge"></a>
 
 ### Linux
 
-Yaani için Linux yapılarını buradan indirebilirsiniz. Umarım Yaani yakın gelecekte bir Flatpak sürümüne ve muhtemelen bir RPM yapısına sahip olacaktır.<br>
-Ne yazık ki donanım eksiliği yüzünden Linux sürümleri çok test edilemedi. (Hataları ve sorunları bize bildir.)
+You can download the Linux builds for Holla here. Hopefully Yaani will have a Flatpak version and possibly an RPM build in the near future.<br>
+Unfortunately, the Linux versions went undetected due to the lack of hardware. (Report bugs and issues to us.)
 
-**Ubuntu, Debian ve Debian türevleri**
+**Ubuntu, Debian ve Debian derivatives**
 
-İndir `.deb` Dosyası [Releases Sayfası](https://github.com/meforce/yaani/releases/latest).
+İndir `.deb` File [Releases Page](https://github.com/meforce/holla/releases/latest).
 
-<a href="https://github.com/meforce/yaani/releases/download/v3.5.3/Yaani_3.5.3_amd64.deb"> 
-<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/meforce/yaani?color=blue&label=TIKLA-INDIR-LINUX-DEB&logo=linux&logoColor=white&style=for-the-badge"></a>
+<a href="https://github.com/meforce/holla/releases/download/v3.5.4/Holla_3.5.4_amd64.deb"> 
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/meforce/holla?color=blue&label=CLICK-DOWNLOAD-LINUX-DEB&logo=linux&logoColor=white&style=for-the-badge"></a>
 
-**AppImage (Diğer her şey)**
+**AppImage (Everything else)**
 
-İndir `.AppImage` Dosyası [Releases Sayfası](https://github.com/meforce/yaani/releases/latest).
+Download `.AppImage` File [Releases Page](https://github.com/meforce/holla/releases/latest).
 
 
-<a href="https://github.com/meforce/yaani/releases/download/v3.5.3/Yaani-3.5.3.AppImage"> 
-<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/meforce/yaani?color=blue&label=TIKLA-INDIR-LINUX-AppImage&logo=linux&logoColor=white&style=for-the-badge"></a>
+<a href="https://github.com/meforce/holla/releases/download/v3.5.4/Holla-3.5.4.AppImage"> 
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/meforce/holla?color=blue&label=CLICK-DOWNLOAD-LINUX-AppImage&logo=linux&logoColor=white&style=for-the-badge"></a>
 <br>
 
 ## FAQ
