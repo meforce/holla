@@ -24,10 +24,10 @@ More, Buy The Project -> <a href="#">Holla Buy</a>
 
 ## Application Screenshots
 Screenshots from within the app<br><br>
-<img width="390" src="https://raw.githubusercontent.com/meforce/yaani/main/assets/image/newtab.JPG"/>
-<img width="390" src="https://raw.githubusercontent.com/meforce/yaani/main/assets/image/search.JPG"/>
-<img width="390" src="https://raw.githubusercontent.com/meforce/yaani/main/assets/image/settings.JPG"/>
-<img width="390" src="https://raw.githubusercontent.com/meforce/yaani/main/assets/image/history.JPG"/>
+<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-1.jpg"/>
+<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-2.jpg"/>
+<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-3.jpg"/>
+<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-4.jpg"/>
 
 
 ## Download
