@@ -24,8 +24,10 @@ More, Buy The Project -> <a href="#">Holla Buy</a>
 
 ## Application Screenshots
 Screenshots from within the app<br><br>
+New Tab Light Theme<br>
 <img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-1.jpg"/>
-<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-2.jpg"/>
+<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-2.jpg"/><br>
+New Tab Dark Theme<br>
 <img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-3.jpg"/>
 <img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-4.jpg"/>
 
