@@ -12,16 +12,6 @@ Holla Search Engine Web Browser<br>
 <a href="https://discord.gg/vWExS7F"><img alt="Discord" src="https://img.shields.io/discord/699656586423173161?color=%237289DA&label=discord&logo=Discord&logoColor=white&style=for-the-badge"></a>
 </p>
 
-<h4 align="center">Developed Independently by Me Force.</h4>
-<div align="center"> Holla Web Browser BETA</div>
-<h6 align="center">
-Developed by. <a href="https://www.instagram.com/mertcetin.real">Mert Çetin</a> <br>
-Published documents of this project github (https://github.com/meforce/holla) Distribute outside of it is currently prohibited.<br><br>
-Me Force All rights reserved.<br>
-Is there a problem ? Contact Us Now. <b>mertcetin.official@gmail.com</b><br>
-More, Buy The Project -> <a href="#">Holla Buy</a>
-</h6>
-
 ## Application Screenshots
 
 Top Bar Variant: Compact, Tab: New Tab, Theme: Light Theme<br>
@@ -120,7 +110,14 @@ Projede kullanılan materyallere ve bileşenleri içeren talimatlar ve dokümanl
 <img src="https://raw.githubusercontent.com/meforce/yaani/main/assets/image/electron-mores.JPG"/>
 </a>
 <br>
-<h6 align="center">Bu Proje ‎3 ‎Kasım ‎2020 ‎Salı, ‏‎15:07:21 Yapılmaya Başlanmıştır. Yapımı Ve Geliştirmesi 1 Kişiye Aittir.</h6>
 
-<a href="https://www.yaani.com.tr/policy/privacypolicy.html"><h6 align="center">YAANİ ARAMA MOTORU KULLANIM ŞARTLARI VE GİZLİLİK</h6></a>
+<h4 align="center">Developed Independently by Me Force.</h4>
+<div align="center"> Holla Web Browser BETA</div>
+<h6 align="center">
+Developed by. <a href="https://www.instagram.com/mertcetin.real">Mert Çetin</a> <br>
+Published documents of this project github (https://github.com/meforce/holla) Distribute outside of it is currently prohibited.<br><br>
+Me Force All rights reserved.<br>
+Is there a problem ? Contact Us Now. <b>mertcetin.official@gmail.com</b><br>
+More, Buy The Project -> <a href="#">Holla Buy</a>
+</h6>
 
