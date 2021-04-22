@@ -60,7 +60,6 @@ Releasing Holla for the Windows package Chocolatey could be our next step.
 
 Download `.dmg` File [Releases Page](https://github.com/meforce/holla/releases/latest).<br>
 You can download the Mac OS builds for Holla here. <br>
-Unfortunately, the Mac versions went undetected due to the lack of hardware. (Report bugs and issues to us.)
 
 
 <a href="https://github.com/meforce/holla/releases/download/v3.5.4/Holla-3.5.4.dmg"> 
