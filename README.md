@@ -69,7 +69,6 @@ Unfortunately, the Mac versions went undetected due to the lack of hardware. (Re
 ### Linux
 
 You can download the Linux builds for Holla here. Hopefully Yaani will have a Flatpak version and possibly an RPM build in the near future.<br>
-Unfortunately, the Linux versions went undetected due to the lack of hardware. (Report bugs and issues to us.)
 
 **Ubuntu, Debian ve Debian derivatives**
 
