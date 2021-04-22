@@ -3,8 +3,9 @@
 <img src="https://raw.githubusercontent.com/meforce/holla/main/image/holla.png" style="display: block;margin-left: auto;margin-right: auto;" data-canonical-src="https://raw.githubusercontent.com/meforce/yaani/main/assets/image/yaani-logo-min.png" width="250" height="250" align="center"/><br><br>
 Holla Search Engine Web Browser<br>
 <a target="_blank" href="https://github.com/meforce/holla/wiki">Documentation</a> |
-<a target="_blank" href="https://github.com/meforce/holla/wiki/Building">Building</a> |  
+<a target="_blank" href="https://github.com/meforce/holla/wiki/Components">Components</a> |  
 <a target="_blank" href="https://github.com/meforce/holla/wiki/Download">Download</a> |
+<a target="_blank" href="https://github.com/meforce/holla/wiki/Building">Building</a> |  
 <a target="_blank" href="https://github.com/meforce/holla/wiki/faq">FAQ</a>
 <br><br> 
 <!--<img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/meforce/yaani/build?style=for-the-badge">-->
