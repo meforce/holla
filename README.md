@@ -73,7 +73,7 @@ Unfortunately, the Linux versions went undetected due to the lack of hardware. (
 
 **Ubuntu, Debian ve Debian derivatives**
 
-İndir `.deb` File [Releases Page](https://github.com/meforce/holla/releases/latest).
+Download `.deb` File [Releases Page](https://github.com/meforce/holla/releases/latest).
 
 <a href="https://github.com/meforce/holla/releases/download/v3.5.4/Holla_3.5.4_amd64.deb"> 
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/meforce/holla?color=blue&label=CLICK-DOWNLOAD-LINUX-DEB&logo=linux&logoColor=white&style=for-the-badge"></a>
@@ -90,7 +90,7 @@ Download `.AppImage` File [Releases Page](https://github.com/meforce/holla/relea
 ## FAQ
 
 ### Holla: How does it compare to other browsers like Firefox, Opera, Chrome, Brave?
-Hem Firefox hem de Brave muhteşemdir ve her gün Yaani gizlilik durumlarına giderek daha da yaklaşmaktadır. Yaani günlük olarak kullanılacak kadar iyi durumdadır. Web'in sınırlarını test etmek ve interneti daha güvenli bir yer haline getirmeye yardımcı olmak için harika bir deneyim sunar.
+Both Firefox and Brave are great, and each day Yaani is getting closer to their privacy situation. Yaani is in good condition to be used daily. It offers a great experience to test the limits of the web and help make the internet a safer place.
 
 ### Why is Electron Infrastructure Used?
 Some people are often skeptical about Electron due to its high memory usage. :D, but [Electron](https://www.electronjs.org/) makes the development process incredibly simple and offers very low CPU and memory usage. Electron allows us to build a desktop application using web technologies.
