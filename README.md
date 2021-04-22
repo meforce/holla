@@ -68,7 +68,7 @@ You can download the Mac OS builds for Holla here. <br>
 
 ### Linux
 
-You can download the Linux builds for Holla here. Hopefully Yaani will have a Flatpak version and possibly an RPM build in the near future.<br>
+You can download the Linux builds for Holla here. Hopefully Holla will have a Flatpak version and possibly an RPM build in the near future.<br>
 
 **Ubuntu, Debian ve Debian derivatives**
 
@@ -89,7 +89,7 @@ Download `.AppImage` File [Releases Page](https://github.com/meforce/holla/relea
 ## FAQ
 
 ### Holla: How does it compare to other browsers like Firefox, Opera, Chrome, Brave?
-Both Firefox and Brave are great, and each day Yaani is getting closer to their privacy situation. Yaani is in good condition to be used daily. It offers a great experience to test the limits of the web and help make the internet a safer place.
+Both Firefox and Brave are great, and each day Holla is getting closer to their privacy situation. Holla is in good condition to be used daily. It offers a great experience to test the limits of the web and help make the internet a safer place.
 
 ### Why is Electron Infrastructure Used?
 Some people are often skeptical about Electron due to its high memory usage. :D, but [Electron](https://www.electronjs.org/) makes the development process incredibly simple and offers very low CPU and memory usage. Electron allows us to build a desktop application using web technologies.
