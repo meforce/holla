@@ -122,6 +122,6 @@ Developed by. <a href="https://www.instagram.com/mertcetin.real">Mert Çetin</a>
 Published documents of this project github (https://github.com/meforce/holla) Distribute outside of it is currently prohibited.<br><br>
 Me Force All rights reserved.<br>
 Is there a problem ? Contact Us Now. <b>mertcetin.official@gmail.com</b><br>
-More, Buy The Project -> <a href="#">Holla Buy</a>
+More, Buy The Project -> <a href="https://codecanyon.net/item/holla-browser-desktop-application/31818102">Holla Buy</a>
 </h6>
 
