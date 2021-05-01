@@ -104,7 +104,7 @@ For now use should stop doing anything very delicate on Holla, it is still in de
 however, like all applications, problems can occur and go unnoticed.
 
 ### How do I know Holla doesn't take telemetry?
-Holla is built around on open source technologies and therefore we love transparency. You're welcome to perform your own audits on our entirely open source code! We also include a [Components](https://github.com/peacockweb/holla/wiki/Components) entry in our docs which breaks down all the technologies used in the production of Holla.
+Holla is built around on open source technologies and therefore we love transparency. You're welcome to perform your own audits on our entirely open source code! We also include a [Components](https://github.com/meforce/holla/wiki/Components) entry in our docs which breaks down all the technologies used in the production of Holla.
 
 ### [Components](https://github.com/meforce/holla/wiki/Components)
 Holla strongly supports accessible transparency. This file gives you an insight into each of the components that make up our browser, without having to dig deep into the code to find it.<br>
