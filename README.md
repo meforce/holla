@@ -55,7 +55,7 @@ Download `.exe` File [Releases Page](https://github.com/meforce/holla/releases/l
 Releasing Holla for the Windows package Chocolatey could be our next step.
 
 
-<a href="https://github.com/meforce/holla/releases/download/v3.5.5/Holla-Setup-3.5.5.exe"> 
+<a href="https://github.com/meforce/holla/releases/download/v3.5.6/Holla-Setup-3.5.6.exe"> 
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/meforce/holla?color=blue&label=CLICK-DOWNLOAD-WINDOWS-EXE&logo=windows&logoColor=white&style=for-the-badge"></a>
 
 ### Mac
@@ -64,7 +64,7 @@ Download `.dmg` File [Releases Page](https://github.com/meforce/holla/releases/l
 You can download the Mac OS builds for Holla here. <br>
 
 
-<a href="https://github.com/meforce/holla/releases/download/v3.5.5/Holla-3.5.5.dmg"> 
+<a href="https://github.com/meforce/holla/releases/download/v3.5.6/Holla-3.5.6.dmg"> 
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/meforce/holla?color=blue&label=CLICK-DOWNLOAD-MAC-DMG&logo=github&logoColor=white&style=for-the-badge"></a>
 
 ### Linux
@@ -75,7 +75,7 @@ You can download the Linux builds for Holla here. Hopefully Holla will have a Fl
 
 Download `.deb` File [Releases Page](https://github.com/meforce/holla/releases/latest).
 
-<a href="https://github.com/meforce/holla/releases/download/v3.5.5/Holla_3.5.5_amd64.deb"> 
+<a href="https://github.com/meforce/holla/releases/download/v3.5.6/Holla_3.5.6_amd64.deb"> 
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/meforce/holla?color=blue&label=CLICK-DOWNLOAD-LINUX-DEB&logo=linux&logoColor=white&style=for-the-badge"></a>
 
 **AppImage (Everything else)**
@@ -83,7 +83,7 @@ Download `.deb` File [Releases Page](https://github.com/meforce/holla/releases/l
 Download `.AppImage` File [Releases Page](https://github.com/meforce/holla/releases/latest).
 
 
-<a href="https://github.com/meforce/holla/releases/download/v3.5.5/Holla-3.5.5.AppImage"> 
+<a href="https://github.com/meforce/holla/releases/download/v3.5.6/Holla-3.5.6.AppImage"> 
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/meforce/holla?color=blue&label=CLICK-DOWNLOAD-LINUX-AppImage&logo=linux&logoColor=white&style=for-the-badge"></a>
 <br>
 
