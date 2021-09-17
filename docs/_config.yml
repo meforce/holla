@@ -11,11 +11,11 @@ exclude:
   # Reading Files
 include:
   - _pages
-
+  
 collections:
-  output: true
-  pages: permalink: /:path/
-    
+  pages:
+    output: true
+    permalink: /:path/
 
 # Markdown rendering
 markdown: holla
