@@ -121,7 +121,29 @@ alt="United States" class="flag-image mr-10">Bengali</a>
 <script id="lg_lang" src="https://meforce.github.io/holla/i18n/tr.js"></script>
 <script>
 console.log(lg_lang);
-//var lg_lang = 
+window.addEventListener('load', async e => {
+
+//Dil Çeviri Yap
+var i18nTitle = document.getElementById("i18n");
+if(i18nTitle){ i18nTitle.innerHTML = i18n(i18nTitle.innerHTML); }
+
+[].forEach.call(document.getElementsByClassName("i18n"),function(el){ 
+if(el.placeholder){ el.placeholder = i18n(el.placeholder); }
+if(el.title){ el.title = i18n(el.title); }
+});
+
+[].forEach.call(document.getElementsByTagName("i18n"),function(el){ 
+var keyslo = el.innerHTML;
+el.innerHTML = i18n(keyslo);
+el.style.display = 'block';
+});
+
+});
+  
+  
+i18n(text){
+return (lg_lang[text])
+}
 </script>
 
 <script src="https://meforce.github.io/holla/js/plugins.min.js"></script>
