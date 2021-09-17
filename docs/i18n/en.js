@@ -1,4 +1,4 @@
-{
+var lg_lang = {
 "Görünüm": "View",
 "Ayarlar": "Settings",
 "Başlangıçta": "Initially",
@@ -268,4 +268,4 @@
 "useraaentinfos": "<b>What is a user agent?</b><br>It is the name given to the software that acts as a bridge between the internet user and the web content. The user agent carries a lot of information available during user interactions, such as the device, location, IP address of the internet user. The information provided is used by websites to provide customized and higher-performing user experiences.",
 "Arama - Tarama": "Search - Scan",
 "Bu ayarı değiştirmek uygulamayı yeniden başlatır.": "Changing this setting restarts the application."
-}
+};
