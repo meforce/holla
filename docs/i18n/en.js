@@ -260,12 +260,13 @@ var lg_lang = {
 "zoomIn": "zoomIn",
 "zoomOut": "zoomOut",
 "togglefullscreen": "togglefullscreen",
-
 "Adres çubuğunda kullanılan arama motoru": "Search engine used in the address bar",
 "Kullanıcı Verileri": "User Data",
 "Kullanıcı Aracısı": "User Agent",
 "useraaentinfos1": "Firefox is currently the best connection type. If you change this setting, you may experience connection or login problems on some sites you visit.<br> Since Holla is a new and unknown browser for now, our userAgent system cannot be detected by some sites. That's why we define the browser as firefox.",
 "useraaentinfos": "<b>What is a user agent?</b><br>It is the name given to the software that acts as a bridge between the internet user and the web content. The user agent carries a lot of information available during user interactions, such as the device, location, IP address of the internet user. The information provided is used by websites to provide customized and higher-performing user experiences.",
 "Arama - Tarama": "Search - Scan",
-"Bu ayarı değiştirmek uygulamayı yeniden başlatır.": "Changing this setting restarts the application."
+"Bu ayarı değiştirmek uygulamayı yeniden başlatır.": "Changing this setting restarts the application.",
+"Turkish": "Turkish",
+"English": "English"
 };
