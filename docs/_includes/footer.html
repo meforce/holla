@@ -125,8 +125,16 @@ localStorage['langue']= 'en';
 console.log(localStorage['langue']);
 } else {
 var hh = document.getElementById("langscripts");
-var s = "<script id="lg_lang" src="https://meforce.github.io/holla/i18n/`${localStorage['langue']}`.js"></script>";
-hh.insertAdjacentElement("afterend", s);
+
+var langcodes = localStorage['langue'];
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.id = 'lg_lang';
+//script.src = "https://meforce.github.io/holla/i18n/`${localStorage['langue']}`.js";
+script.src = `https://meforce.github.io/holla/i18n/${langcodes}.js`;
+//head.appendChild(script);
+
+hh.insertAdjacentElement("afterend", script);
 }
 </script>
 
