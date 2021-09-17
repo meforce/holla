@@ -119,30 +119,7 @@ alt="United States" class="flag-image mr-10">Bengali</a>
 </footer>
 <!-- =========== End of Footer ============ -->
 
-<script src="https://meforce.github.io/holla/translations/i18n.js"></script>
-<script>
-//var i18n = new(require('https://meforce.github.io/holla/translations/i18n.js'));
-
-window.addEventListener('load', async e => {
-
-//Dil Çeviri Yap
-var i18nTitle = document.getElementById("i18n");
-if(i18nTitle){ i18nTitle.innerHTML = i18n.__(i18nTitle.innerHTML); }
-
-[].forEach.call(document.getElementsByClassName("i18n"),function(el){ 
-if(el.placeholder){ el.placeholder = i18n.__(el.placeholder); }
-if(el.title){ el.title = i18n.__(el.title); }
-});
-
-[].forEach.call(document.getElementsByTagName("i18n"),function(el){ 
-var keyslo = el.innerHTML;
-el.innerHTML = i18n.__(keyslo);
-el.style.display = 'block';
-});
-
-});
-
-</script>
+<script src="https://meforce.github.io/holla/js/index.js"></script>
 
 <script src="https://meforce.github.io/holla/js/plugins.min.js"></script>
 <script src="https://meforce.github.io/holla/js/app.js"></script>
