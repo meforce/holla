@@ -1,4 +1,5 @@
-import Translator from "./translator";
+//import Translator from "./translator";
+import {Translator} from "./translator.js";
 
 var translator = new Translator({
   persist: false,
