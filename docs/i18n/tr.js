@@ -1,4 +1,4 @@
-{
+var lg_lang =  {
 "Görünüm": "Görünüm",
 "Ayarlar": "Ayarlar",
 "Başlangıçta": "Başlangıçta",
@@ -267,4 +267,4 @@
 "useraaentinfos": "<b>User agent Nedir?</b><br>İnternet kullanıcısı ile web içerikleri arasında köprü vazifesi gören yazılımlara verilen isimdir. User agent kullanıcı etkileşimleri boyunca mevcut olan, internet kullanıcısının sahip olduğu cihaz, lokasyon, IP adresi gibi pek çok bilgiyi taşır. Sağlanan bilgiler web siteleri tarafından özelleştirilmiş ve daha yüksek performanslı kullanıcı deneyimleri sunmak amacı ile kullanılır.",
 "Arama - Tarama": "Arama - Tarama",
 "Bu ayarı değiştirmek uygulamayı yeniden başlatır.": "Bu ayarı değiştirmek uygulamayı yeniden başlatır."
-}
+};
