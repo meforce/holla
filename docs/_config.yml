@@ -9,8 +9,8 @@ exclude:
   - CNAME
 
 collections:
+  output: true
   pages: permalink: /:path/
-   # output: true
     
 
 # Markdown rendering
