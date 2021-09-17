@@ -83,20 +83,21 @@
 <div class="lang-selector mr-30 position-relative">
 <button class="lang-selector__button" type="button">
 <img src="img/flag-usa.png" alt="United States" class="flag-image">
-<span>English</span>
+<span><i18n>Dil</i18n></span>
 <i class="fa fa-angle-up"></i>
 </button>
 <!-- end of language selector button -->
 
 <ul class="lang-dropdown mb-0">
 <li>
-<a class="lang-dropdown__item d-flex align-items-center" href="#"><img src="img/flag-usa.png"
-alt="United States" class="flag-image mr-10">English</a>
+<a class="lang-dropdown__item d-flex align-items-center" onclick="i18nChanger('tr')"><img src="img/flag-tr.png"
+ class="flag-image mr-10"><i18n>Turkish</i18n></a>
 </li>
 <li>
-<a class="lang-dropdown__item d-flex align-items-center" href="#"><img src="img/flag-spain.png"
-alt="United States" class="flag-image mr-10">Spanish</a>
+<a class="lang-dropdown__item d-flex align-items-center" onclick="i18nChanger('en')"><img src="img/flag-usa.png"
+ class="flag-image mr-10"><i18n>English</i18n></a>
 </li>
+ <!--
 <li>
 <a class="lang-dropdown__item d-flex align-items-center" href="#"><img src="img/flag-france.png"
 alt="United States" class="flag-image mr-10">France</a>
@@ -104,7 +105,7 @@ alt="United States" class="flag-image mr-10">France</a>
 <li>
 <a class="lang-dropdown__item d-flex align-items-center" href="#"><img src="img/flag-bangladesh.png"
 alt="United States" class="flag-image mr-10">Bengali</a>
-</li>
+</li>-->
 </ul>
 <!-- end of language selector dropdown-->
 </div>
@@ -125,15 +126,11 @@ localStorage['langue']= 'en';
 console.log(localStorage['langue']);
 } else {
 var hh = document.getElementById("langscripts");
-
 var langcodes = localStorage['langue'];
 var script = document.createElement('script');
 script.type = 'text/javascript';
 script.id = 'lg_lang';
-//script.src = "https://meforce.github.io/holla/i18n/`${localStorage['langue']}`.js";
 script.src = `https://meforce.github.io/holla/i18n/${langcodes}.js`;
-//head.appendChild(script);
-
 hh.insertAdjacentElement("afterend", script);
 }
 </script>
@@ -162,6 +159,10 @@ el.innerHTML = i18n(keyslo);
   
 function i18n(text){
 return (lg_lang[text])
+}
+
+function i18nChanger(code){
+localStorage['langue']= code;
 }
 </script>
 
