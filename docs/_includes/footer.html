@@ -125,7 +125,7 @@ localStorage['langue']= 'en';
 console.log(localStorage['langue']);
 } else {
 var hh = document.getElementById("langscripts");
-var s = `<script id="lg_lang" src="https://meforce.github.io/holla/i18n/${localStorage['langue']}.js"></script>`;
+var s = "<script id="lg_lang" src="https://meforce.github.io/holla/i18n/`${localStorage['langue']}`.js"></script>";
 hh.insertAdjacentElement("afterend", s);
 }
 </script>
