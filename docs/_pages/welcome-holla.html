@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+{% include head.html %}
+
+<body class="" data-spy="scroll" data-target="#navbar-nav">
+<!-- =========== Preloader Start ============ -->
+<div class="preloader-main">
+<div class="preloader-wapper">
+<svg class="preloader" xmlns="http://www.w3.org/2000/svg" version="1.1" width="600" height="200">
+<defs>
+<filter id="goo" x="-40%" y="-40%" height="200%" width="400%">
+<feGaussianBlur in="SourceGraphic" stdDeviation="10" result="blur" />
+<feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 19 -8" result="goo" />
+</filter>
+</defs>
+<g filter="url(#goo)">
+<circle class="dot bg-fill-primary " cx="50" cy="50" r="25" />
+<circle class="dot" cx="50" cy="50" r="25" fill="#4c83ff" />
+</g>
+</svg>
+<div>
+<div class="loader-section section-left"></div>
+<div class="loader-section section-right"></div>
+</div>
+</div>
+</div>
+<!-- =========== Preloader End ============ -->
+<div class="main">
+{% include header.html %}
+
+<div>
+    ana içerik buraya
+</div>
+    
+{% include footer.html %}
+</div>
+</body>
+</html>
