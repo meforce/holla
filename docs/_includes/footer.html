@@ -119,13 +119,17 @@ alt="United States" class="flag-image mr-10">Bengali</a>
 </footer>
 <!-- =========== End of Footer ============ -->
 
-<script>
+<script id="langscripts">
 if(!localStorage['langue']){
 localStorage['langue']= 'en';
 console.log(localStorage['langue']);
+} else {
+var hh = document.getElementById("langscripts");
+var s = `<script id="lg_lang" src="https://meforce.github.io/holla/i18n/${localStorage['langue']}.js"></script>`;
+hh.insertAdjacentElement("afterend", s);
 }
 </script>
-<script id="lg_lang" src=`https://meforce.github.io/holla/i18n/${localStorage['langue']}.js`></script>
+
 
 <script>
 window.addEventListener('load', async e => {
