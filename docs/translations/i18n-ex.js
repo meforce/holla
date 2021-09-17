@@ -1,12 +1,7 @@
 const path = require("path");
 
-const electron = require('electron');
-let app = electron.app ? electron.app : electron.remote.app;
-const Store = require('electron-store');
-window.store = new Store();
-var locaLangCode = store.get('settings.langs');
+var locaLangCode = 'tr';
 
-const {	ipcRenderer, remote } = require('electron');
 const fs = require('fs');
 let loadedLanguage;
 
