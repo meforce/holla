@@ -270,5 +270,6 @@ var lg_lang = {
 "Turkish": "Turkish",
 "English": "English",
 "Bir Kuş Kadar Hafif": "Light as a Bird",
-"CPU, RAM rahat kalsın diye holla'yı geliştirdik. Kişisel kullanım, internette sörf yapanlar, Dizi-film-belgesel izleyenler veya Oyuncular için tarayıcı.": "We developed holla to keep CPU and RAM comfortable. Browser for personal use, internet surfing, TV series-movie-documentary watchers or Gamers."
+"CPU, RAM rahat kalsın diye holla'yı geliştirdik. Kişisel kullanım, internette sörf yapanlar, Dizi-film-belgesel izleyenler veya Oyuncular için tarayıcı.": "We developed holla to keep CPU and RAM comfortable. Browser for personal use, internet surfing, TV series-movie-documentary watchers or Gamers.",
+"Şimdi indir - Ücretsiz": "Download now - Free"
 };
