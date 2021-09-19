@@ -268,5 +268,7 @@ var lg_lang =  {
 "Arama - Tarama": "Arama - Tarama",
 "Bu ayarı değiştirmek uygulamayı yeniden başlatır.": "Bu ayarı değiştirmek uygulamayı yeniden başlatır.",
 "Turkish": "Türkçe",
-"English": "İngilizce"
+"English": "İngilizce",
+"Bir Kuş Kadar Hafif": "Bir Kuş Kadar Hafif",
+"CPU, RAM rahat kalsın diye holla'yı geliştirdik. Kişisel kullanım, internette sörf yapanlar, Dizi-film-belgesel izleyenler veya Oyuncular için tarayıcı.": "CPU, RAM rahat kalsın diye holla'yı geliştirdik. Kişisel kullanım, internette sörf yapanlar, Dizi-film-belgesel izleyenler veya Oyuncular için tarayıcı."
 };
