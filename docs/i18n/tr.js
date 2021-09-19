@@ -270,5 +270,6 @@ var lg_lang =  {
 "Turkish": "Türkçe",
 "English": "İngilizce",
 "Bir Kuş Kadar Hafif": "Bir Kuş Kadar Hafif",
-"CPU, RAM rahat kalsın diye holla'yı geliştirdik. Kişisel kullanım, internette sörf yapanlar, Dizi-film-belgesel izleyenler veya Oyuncular için tarayıcı.": "CPU, RAM rahat kalsın diye holla'yı geliştirdik. Kişisel kullanım, internette sörf yapanlar, Dizi-film-belgesel izleyenler veya Oyuncular için tarayıcı."
+"CPU, RAM rahat kalsın diye holla'yı geliştirdik. Kişisel kullanım, internette sörf yapanlar, Dizi-film-belgesel izleyenler veya Oyuncular için tarayıcı.": "CPU, RAM rahat kalsın diye holla'yı geliştirdik. Kişisel kullanım, internette sörf yapanlar, Dizi-film-belgesel izleyenler veya Oyuncular için tarayıcı.",
+"Şimdi indir - Ücretsiz": "Şimdi indir - Ücretsiz"
 };
