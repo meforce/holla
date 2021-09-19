@@ -268,5 +268,7 @@ var lg_lang = {
 "Arama - Tarama": "Search - Scan",
 "Bu ayarı değiştirmek uygulamayı yeniden başlatır.": "Changing this setting restarts the application.",
 "Turkish": "Turkish",
-"English": "English"
+"English": "English",
+"Bir Kuş Kadar Hafif": "Light as a Bird",
+"CPU, RAM rahat kalsın diye holla'yı geliştirdik. Kişisel kullanım, internette sörf yapanlar, Dizi-film-belgesel izleyenler veya Oyuncular için tarayıcı.": "We developed holla to keep CPU and RAM comfortable. Browser for personal use, internet surfing, TV series-movie-documentary watchers or Gamers."
 };
