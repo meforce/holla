@@ -122,7 +122,11 @@ alt="United States" class="flag-image mr-10">Bengali</a>
 
 <script id="langscripts">
 if(!localStorage['langue']){
-var codelnago = 'en';
+ var codelnago = 'en';
+ var userLangisGets = navigator.language || navigator.userLanguage; 
+ if(userLangisGets == 'tr'){
+codelnago = 'tr';
+ } else { codelnago = 'en'; }
 localStorage['langue']= codelnago;
 var hh = document.getElementById("langscripts");
 var script = document.createElement('script');
