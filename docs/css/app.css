@@ -555,8 +555,8 @@ p {
 
 /**! 04. spacing **/
 .space {
-  padding-top: 8rem;
-  padding-bottom: 8rem;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
 }
 
 .space--md {
@@ -575,7 +575,7 @@ p {
 }
 
 .space-top {
-  padding-top: 8rem;
+  padding-top: 6rem;
 }
 
 .space-top--md {
@@ -591,7 +591,7 @@ p {
 }
 
 .space-bottom {
-  padding-bottom: 8rem;
+  padding-bottom: 6rem;
 }
 
 .space-bottom--md {
