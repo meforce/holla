@@ -278,7 +278,7 @@ var lg_lang =  {
 "Bird Messenger": "Bird Messenger",
 "Hızlı Ve Güvenilir iletişim": "Hızlı Ve Güvenilir iletişim",
 "pocoinfo1": "Yazışmalar, Görüntülü Veya Sesli Sohbet",
-"pocoinfo2": "Bilgilerin çoğu senin bilgisayarında depolanacaktır. <br> (Holla ÖnBellek Sisteminde Tutulacaktır.) <br> Yazışmalar anlıktır ve kaydı tutulmaz.",
+"pocoinfo2": "Holla Bird ile tanışın. Kayıt yok, veriler sunucularda saklanmaz. Hızlı ve güvenilir iletişim. <br> Bütün her şey anlıktır ve kaydı tutulmaz.",
 "RTCMultiConnection Nedir?": "RTCMultiConnection Nedir?",
 "Poco Hoşgeldin": "Bird Hoşgeldin",
 "Username": "Kullanıcı Adı",
