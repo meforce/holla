@@ -150,7 +150,7 @@ if(el.title){ el.title = i18n(el.title); }
 
 [].forEach.call(document.getElementsByTagName("i18n"),function(el){ 
 var keyslo = el.innerHTML;
-el.innerHTML = i18n(keyslo);
+if(i18n(keyslo)){el.innerHTML = i18n(keyslo);}
 //el.style.display = 'block';
 });
 
