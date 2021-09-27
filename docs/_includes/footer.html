@@ -122,8 +122,14 @@ alt="United States" class="flag-image mr-10">Bengali</a>
 
 <script id="langscripts">
 if(!localStorage['langue']){
-localStorage['langue']= 'en';
-console.log(localStorage['langue']);
+var codelnago = 'en';
+localStorage['langue']= codelnago;
+var hh = document.getElementById("langscripts");
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.id = 'lg_lang';
+script.src = `https://meforce.github.io/holla/i18n/${codelnago}.js`;
+hh.insertAdjacentElement("afterend", script);
 } else {
 var hh = document.getElementById("langscripts");
 var langcodes = localStorage['langue'];
