@@ -279,7 +279,7 @@ var lg_lang = {
 "Bird Messenger": "Bird Messenger",
 "Hızlı Ve Güvenilir iletişim": "Fast And Reliable Communication",
 "pocoinfo1": "Chat, Video Or Voice Chat",
-"pocoinfo2": "Most of the information will be stored on your computer. <br> (It will be kept in the Holla Cache System.) <br> Correspondence is instantaneous and is not recorded.",
+"pocoinfo2": "Meet Holla Bird. No logs, data is not stored on servers. Fast and reliable communication. <br> Everything is instant and not recorded.",
 "RTCMultiConnection Nedir?": "What is RTCMultiConnection?",
 "Poco Hoşgeldin": "Bird Welcome",
 "Username": "Username",
