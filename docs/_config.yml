@@ -8,7 +8,15 @@ exclude:
   - README.md
   - CNAME
   
-
+  # Reading Files
+include:
+  - _pages
+  
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+   
 
 # Markdown rendering
 #markdown: holla
