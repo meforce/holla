@@ -340,7 +340,7 @@ var lg_lang = {
 "İşte Holla'da seveceğiniz bazı şeyler": "Here are some things you'll love in Holla",
 "Daha hızlı gezinin": "Browse faster",
 "Diğer tarayıcılardan çok daha az işlem kapasitesi kullanırız ve web sayfalarının daha hızlı yüklenmesine yardımcı olan yerleşik bir reklam engelleyicimiz vardır.": "We use much less processing capacity than other browsers and we have a built-in ad blocker that helps web pages load faster.",
-"Gizliliği Artırın": "Gizliliği Artırın",
+"Gizliliği Artırın": "Increase Privacy",
 "Bize güvenin. Ücretsiz VPN'imiz çevrimiçi izlemeyi azaltır ve gezinirken sizi korur.": "Trust us. Our free VPN reduces online tracking and protects you while you browse.",
 "İletişimde kalın": "stay in touch",
 "Tarayıcınızın kenarında bulunan yerleşik mesajlaşma uygulamalarıyla gezinirken aynı anda sohbet edin. Sekmeler ve uygulamalar arasında geçiş yapmanıza artık gerek yok.": "Chat while browsing with built-in messaging apps at the edge of your browser. No more switching between tabs and apps.",
