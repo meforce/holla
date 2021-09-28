@@ -115,9 +115,9 @@ include_in_header: true
 - Thanks to holla://bird, video and audio calls and correspondence can be made.
 
 
-- Electron widevine migration. Made Widevine compatible. https://github.com/meforce/electron#11.5.0-wvvmp
+- Electron widevine migration. Made Widevine compatible. <a hef="https://github.com/meforce/electron#11.5.0-wvvmp">https://github.com/meforce/electron#11.5.0-wvvmp</a>
 
-- Ad-blocker module widevine electron adapted. https://github.com/meforce/cliqz-adblocker-castlabs
+- Ad-blocker module widevine electron adapted. <a hef="https://github.com/meforce/cliqz-adblocker-castlabs">https://github.com/meforce/cliqz-adblocker-castlabs</a>
 
 - Electron packaging module has been updated.     `npm i electron-builder@22.11.7`
 
