@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+{% include head.html %}
+
+<style>
+pre {
+background: whitesmoke;
+padding: 11px 11px;
+word-wrap: break-word !important;
+width: 100%;
+}
+pre code {
+font-size: 13px;
+word-break: initial;
+word-wrap: break-word !important;
+white-space: break-spaces;
+}
+
+.h3-font, h3, .hero__title {
+font-size: 25px;
+margin-bottom: 15px;
+margin-top: 5px;
+}
+
+.newclsolli ul, .newclsolli ol {
+list-style: circle;
+padding-left: 0;
+}
+</style>
+  
+<body class="" data-spy="scroll" data-target="#navbar-nav">
+<!-- =========== Preloader Start ============ -->
+<div class="preloader-main">
+<div class="preloader-wapper">
+<svg class="preloader" xmlns="http://www.w3.org/2000/svg" version="1.1" width="600" height="200">
+<defs>
+<filter id="goo" x="-40%" y="-40%" height="200%" width="400%">
+<feGaussianBlur in="SourceGraphic" stdDeviation="10" result="blur" />
+<feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 19 -8" result="goo" />
+</filter>
+</defs>
+<g filter="url(#goo)">
+<circle class="dot bg-fill-primary " cx="50" cy="50" r="25" />
+<circle class="dot" cx="50" cy="50" r="25" fill="#4c83ff" />
+</g>
+</svg>
+<div>
+<div class="loader-section section-left"></div>
+<div class="loader-section section-right"></div>
+</div>
+</div>
+</div>
+<!-- =========== Preloader End ============ -->
+<div class="main">
+{% include header.html %}
+
+<section style="background: #4e4e4e; padding: 43px 0; margin-bottom: 50px;" class="space space-top--lg mt-50 mt-lg-0">
+</section>
+
+<div class="container newclsolli">
+<div class="row">
+<div class="col-12 mx-auto">
+<div class="content">
+{{ content }}
+</div>
+</div>
+</div>
+</div>
+
+{% include footer.html %}
+</div>
+</body>
+
+</html>
