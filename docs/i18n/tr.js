@@ -364,5 +364,7 @@ var lg_lang =  {
 "Features": "Hizmetler",
 "Adress": "Adres",
 "Send us an email": "Bize bir e-posta gönder",
-"Privacy & Terms": "Gizlilik ve Şartlar"
+"Privacy & Terms": "Gizlilik ve Şartlar",
+"Privacy Terms": "Gizlilik ve Şartlar",
+"Contact Us": "İletişim"
 };
