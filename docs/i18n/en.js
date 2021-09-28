@@ -360,7 +360,7 @@ var lg_lang = {
 "Holla'yı karanlık ve aydınlık temalar, klavye kısayolları, duvar kağıtları, uzantılar, en sevdiğiniz yer imleri ve başka birçok seçenekle özelleştirin.": "Customize Holla with dark and light themes, keyboard shortcuts, wallpapers, extensions, your favorite bookmarks and many more.",
 "Daha güvenli bir tarayıcıyı hak ediyorsunuz.": "You deserve a safer browser.",
 "Holla sayesinde verileriniz (çerezleriniz ve gezinmeleriniz) güvende.<br> Verilerinizi toplamıyoruz, kimseyle paylaşmıyoruz ve satmıyoruz.<br> Dilediğin zaman ön bellek temizle yada hiç iz bırakma ayarlar sana kalmış :)": "Thanks to Holla, your data (cookies and browsing) is safe.<br> We do not collect, share or sell your data with anyone.<br> Clear cache or leave no traces whenever you want, it's up to you :)",
-"Desktop application created with Holla Electron;<br>Build cross-platform desktop apps with JavaScript, HTML, and CSS": "Holla Electron ile oluşturulmuş masaüstü uygulaması;<br>JavaScript, HTML ve CSS ile platformlar arası masaüstü uygulamaları oluşturun",
+"Desktop application created with Holla Electron;<br>Build cross-platform desktop apps with JavaScript, HTML, and CSS": "Desktop application created with Holla Electron;<br>Build cross-platform desktop apps with JavaScript, HTML, and CSS",
 "Company": "Company",
 "Features": "Features",
 "Adress": "Adress",
