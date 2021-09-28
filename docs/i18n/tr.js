@@ -359,7 +359,7 @@ var lg_lang =  {
 "Holla'yı karanlık ve aydınlık temalar, klavye kısayolları, duvar kağıtları, uzantılar, en sevdiğiniz yer imleri ve başka birçok seçenekle özelleştirin.": "Holla'yı karanlık ve aydınlık temalar, klavye kısayolları, duvar kağıtları, uzantılar, en sevdiğiniz yer imleri ve başka birçok seçenekle özelleştirin.",
 "Daha güvenli bir tarayıcıyı hak ediyorsunuz.": "Daha güvenli bir tarayıcıyı hak ediyorsunuz.",
 "Holla sayesinde verileriniz (çerezleriniz ve gezinmeleriniz) güvende.<br> Verilerinizi toplamıyoruz, kimseyle paylaşmıyoruz ve satmıyoruz.<br> Dilediğin zaman ön bellek temizle yada hiç iz bırakma ayarlar sana kalmış :)": "Holla sayesinde verileriniz (çerezleriniz ve gezinmeleriniz) güvende.<br> Verilerinizi toplamıyoruz, kimseyle paylaşmıyoruz ve satmıyoruz.<br> Dilediğin zaman ön bellek temizle yada hiç iz bırakma ayarlar sana kalmış :)",
-"Desktop application created with Holla Electron;<br>Build cross-platform desktop apps with JavaScript, HTML, and CSS": "Desktop application created with Holla Electron;<br>Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+"Desktop application created with Holla Electron;<br>Build cross-platform desktop apps with JavaScript, HTML, and CSS": "Holla Electron ile oluşturulmuş masaüstü uygulaması;<br>JavaScript, HTML ve CSS ile platformlar arası masaüstü uygulamaları oluşturun",
 "Company": "Kurumsal",
 "Features": "Hizmetler",
 "Adress": "Adres",
