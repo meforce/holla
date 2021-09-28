@@ -16,6 +16,7 @@ collections:
   pages:
     output: true
     permalink: /:path/
+   
 
 # Markdown rendering
-markdown: holla
+#markdown: holla
