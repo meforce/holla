@@ -366,5 +366,6 @@ var lg_lang =  {
 "Send us an email": "Bize bir e-posta gönder",
 "Privacy & Terms": "Gizlilik ve Şartlar",
 "Privacy Terms": "Gizlilik ve Şartlar",
-"Contact Us": "İletişim"
+"Contact Us": "İletişim",
+"Topluluğa Katıl": "Join the Community"
 };
