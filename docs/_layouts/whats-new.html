@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html lang="en-us">
-
+<head>
+<title>Holla Web Browser | What's New?</title>
+<meta name="description" content="What are the changes and updates made in the latest version of Holla?">
 {% include head.html %}
+</head>
 
 <style>
 pre {
@@ -62,7 +65,186 @@ padding-left: 0;
 <div class="row">
 <div class="col-12 mx-auto">
 <div class="content">
-{{ content }}
+<h3 id="holla-update-357">Holla Update v3.5.7</h3>
+
+<ul>
+<li>webrtc incompatibility issues resolved.</li>
+<li>webrtc has been restructured and updated.</li>
+<li>Main url loader issues resolved.</li>
+<li>userAgent has been reconfigured.</li>
+<li>Fixed userAgent incompatibility and potential bugs.</li>
+<li>get-display-media reconfigured.</li>
+<li>get-display-media bugs and problems are gone.</li>
+<li>The screen sharing module was written from scratch and included in the system.</li>
+<li>Fixed video rendering java,npm builds.</li>
+</ul>
+
+<p><br></p>
+
+<ul>
+<li>Alexa add-on module has been renewed.</li>
+<li>Added vpn, proxy system.</li>
+<li>The vpn module has been included in the plugins section.</li>
+<li>The vpn module is currently under development and the existing Proxy is slow and has been added for trial purposes.</li>
+<li>The plugin system has been updated.</li>
+</ul>
+
+<p><br></p>
+
+<ul>
+<li>Updated SSL and https protocol queries about the site.</li>
+<li>Changed global menu language load module (faster translation).</li>
+</ul>
+
+<p><br></p>
+
+<ul>
+<li>Created a new window opening.</li>
+<li>Added new incognito window opening.</li>
+<li>Added chrome:// main path extension. It now supports the chrome:// directory.</li>
+<li>chrome:// opens extensions only in paths it allows.</li>
+<li>Added third-party cookie blocking. It can be turned on or off in settings &gt; privacy.</li>
+</ul>
+
+<p><br></p>
+
+<ul>
+<li>Design and operation fixes.</li>
+</ul>
+
+<p><br></p>
+
+<ul>
+<li>electron@11.5.0 has been updated.</li>
+<li>@cliqz/adblocker-electron@1.22.5 updated.</li>
+<li>easylist updated.</li>
+<li>electron-store@8.0.0 has been updated.</li>
+</ul>
+
+<p><br></p>
+
+<ul>
+<li>Edited keyboard hotkeys. (ctrl + n) (ctrl + shift + n)</li>
+</ul>
+
+<p><br></p>
+
+<ul>
+<li>Added deletion of all data saved in the browser on application reset event.</li>
+<li>Added cookies, sessions, cache clearing.</li>
+</ul>
+
+<p><br></p>
+
+<ul>
+<li>Autofill has been added to the system.</li>
+<li>Autofill; form submit detection and popup asking whether to save information.</li>
+<li>Autofill settings page. deletion of recorded data listing.</li>
+</ul>
+
+<p><br></p>
+
+<ul>
+<li>Update left menu in settings section.</li>
+</ul>
+
+<p><br></p>
+
+<ul>
+<li>Fixed main.js webContents.send mismatch error.</li>
+<li>App update system bugs fixed.</li>
+</ul>
+
+<p><br></p>
+
+<ul>
+<li>Added start screen for first boot.</li>
+<li>Added first boot welcome screen.</li>
+</ul>
+
+<p><br></p>
+
+<ul>
+<li>New tab page has been renewed.</li>
+<li>(new design and functions, customizing new tab page -add background, new customization window)</li>
+</ul>
+
+<p><br></p>
+
+<ul>
+<li>The top main search bar has been refreshed and updated.</li>
+<li>Removed unnecessary commands from the top search bar and made it more efficient.</li>
+<li>Search suggestions have been refreshed and updated. Navigate up and down with the keyboard arrow keys.</li>
+</ul>
+
+<p><br></p>
+
+<ul>
+<li>
+<p>The theme has been updated. new color packs have been added and made more efficient. 22 different color palette options.</p>
+</li>
+<li>
+<p>Re-created the sub-window sizing in the download and the calculation error resolved.</p>
+</li>
+<li>
+<p>Site permissions have been updated. It is now possible to manage permissions.</p>
+</li>
+<li>
+<p>Reconfigured full screen late alert notification.</p>
+</li>
+<li>Controlling audio activity inside a window and specifying it in the tab icon. Is the sound playing or not?</li>
+<li>
+<p>Turning a window’s audio activity off or on.</p>
+</li>
+<li>
+<p>Pin tabs to head. Automatically pinned tabs come every time you open them.</p>
+</li>
+<li>
+<p>Page zoom-out operations have been adjusted (mouse scroll). Page menu included as shortcut.</p>
+</li>
+<li>Added left sidebar. With this sidebar, you can easily access your favorite sites.</li>
+<li>While you are browsing, you can use the shortcut extensions that you can access directly on the side. You can turn it on and off when you need it.</li>
+<li>
+<p>or by fixing it to the screen, you can divide the work area into 2.</p>
+</li>
+<li>
+<p>Updated reconstruction and size calculation algorithms.</p>
+</li>
+<li>Added private chat system. This chat system does not require membership and everything is temporary. Conversations are not recorded.</li>
+<li>
+<p>Thanks to holla://bird, video and audio calls and correspondence can be made.</p>
+</li>
+<li>
+<p>Electron widevine migration. Made Widevine compatible. <a hef="https://github.com/meforce/electron#11.5.0-wvvmp">https://github.com/meforce/electron#11.5.0-wvvmp</a></p>
+</li>
+<li>
+<p>Ad-blocker module widevine electron adapted. <a hef="https://github.com/meforce/cliqz-adblocker-castlabs">https://github.com/meforce/cliqz-adblocker-castlabs</a></p>
+</li>
+<li>Electron packaging module has been updated.     <code class="language-plaintext highlighter-rouge">npm i electron-builder@22.11.7</code></li>
+</ul>
+
+<h3 id="what-is-widevine">What Is Widevine?</h3>
+<p>Widevine is a proprietary digital rights management technology used by Google’s Google Chrome and Firefox web browsers, Android MediaDRM, Android TV, and other consumer electronics devices.
+Electron does not normally support Widevine. Youtube, spotify and many platforms use this system.</p>
+
+<p><br></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Thousands of changes, bug fixes and corrections have been made as a result of repeated tests and trials on all operating systems.
+After a while, we could no longer take note of the changes made :D because there was a lot of trial and error.
+
++250 bug fixed, +1000 changes
+</code></pre></div></div>
+
+<h3 id="detected-issues">Detected Issues</h3>
+
+<p><strong>Enable Spotify Web player, Spotify widevine issue;</strong>
+This problem was solved by creating the new electron Widevine infrastructure.</p>
+
+<p><strong>Spotify does not work properly on windows and mac operating systems;</strong>
+This issue has not been resolved yet. Since Spotify has a complex and old infrastructure, it becomes difficult to support.
+But in the test results, we observed that it works very well in the linux operating system.
+We would like our windows and mac users to give us feedback if spotify is working properly.</p>
+
 </div>
 </div>
 </div>
