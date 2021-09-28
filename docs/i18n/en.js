@@ -365,5 +365,7 @@ var lg_lang = {
 "Features": "Features",
 "Adress": "Adress",
 "Send us an email": "Send us an email",
-"Privacy & Terms": "Privacy & Terms"
+"Privacy & Terms": "Privacy & Terms",
+"Privacy Terms": "Privacy & Terms",
+"Contact Us": "Contact Us"
 };
