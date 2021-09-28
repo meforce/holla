@@ -1,0 +1,234 @@
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Holla Documentation</title>
+</head>
+
+<body style="font-family: system-ui;">
+<div style="padding: 20px 20px;max-width: 1024px;margin: 0 auto;">
+
+<center>
+<h2>Holla Search Engine Web Browser</h2>
+<p>Thank you for purchasing the product</p><br>
+</center>
+
+<p>With Holla, macOS, Windows and Linux you can create your own browser application in minutes.</p>
+<p>Desktop application created with Holla Electron</p>
+
+<ol>
+<li>Build using Electron framework</li>
+<li>Easy to customize and edit</li>
+<li>Cutom menu options</li>
+<li>Support for MacOS, Windows, Linux</li>
+<li>Easy to build an application for your preferred OS</li>
+<li>More features will be adding soon</li>
+</ol>
+
+<h3>Contact Us</h3>
+<p>Email : mertcetin.official@gmail.com</p>
+<p>Codecanyon : https://codecanyon.net/user/mert_cetin</p>
+
+<hr>
+
+<h3>Features</h3>
+<ol>
+<li>Low CPU and memory usage</li>
+<li>Quick Setup</li>
+<li>Multi language system</li>
+<li>Light dark multiple theme options</li>
+<li>Multiple pages, settings, new tab, menu, downloads, saved, history ...</li>
+<li>Automatic update of the application via github</li>
+</ol>
+
+<hr>
+
+<h3>Holla: How does it compare to other browsers like Firefox, Opera, Chrome, Brave?</h3>
+<p>Both Firefox and Brave are great, and each day Holla is getting closer to their privacy situation. Holla is in good condition to be used daily. It offers a great experience to test the limits of the web and help make the internet a safer place.</p>
+
+<hr>
+
+<h3>Why is Electron Infrastructure Used?</h3>
+<p>Some people are often skeptical about Electron due to its high memory usage. :D, but Electron makes the development process incredibly simple and offers very low CPU and memory usage. Electron allows us to build a desktop application using web technologies.</p>
+
+
+<hr>
+
+<h2 id="item-description__builder">Building</h2>
+<p>Both of the build commands use [`electron-builder`](https://electron.build) and output executables for their respective operating system in the `dist/` folder.</p>
+
+<p><b> Download and initialize Holla source code with these commands: </p></b>
+
+1. Buy Project First<br>
+2. Open command prompt (CMD), PowerShell or terminal<br>
+1. cd holla -> Get the directory path from which we extracted the project and run it<br>
+2. npm i -> npm include in the project<br>
+
+<p><b> Run holla from source: </p></b>
+
+```npm run start```<br>
+
+<p><b> Build instructions for Windows: </p></b>
+
+```npm run build-win```<br>
+
+<p><b> Build instructions for Linux:</p></b>
+
+```npm run build-linux```<br>
+
+<p><b> Build instructions for Mac:</p></b>
+
+```npm run build-mac```<br><br>
+
+<hr>
+
+
+<h3>Files Structure</h3>
+* node_modules - All dependencies included in this folder (Electron).<br>
+* css folder -  Images used on other pages, js - css files included in this folder.<br>
+* build folder – Include all app icons.<br>
+* images folder - All used Images.<br>
+* js folder - All used javascript.<br>
+* static/pages folder - all pages used<br>
+* translations folder - language files, translations<br>
+* dist folderBuilt package files, applications are here<br>
+* main.js - Application configuration file. (Application Name, application window sizes and more.)<br>
+* package.json - NodeJS application and package details.<br>
+* menu-config.js – Main menu template<br><br>
+
+<hr>
+
+
+<h3>Customizing and Configurations</h3>
+<h4>Change application Name</h4>
+<p>First, you need to change the name attribute of the package.json file in the application root directory .</p>
+
+`"name": "Holla",`
+<br>
+Next, modify config.js file appName value.<br>
+`"productName": "Holla",`
+
+<h3>Change application description</h3>
+<p>First you need to change the application root directory package.json description attribute.</p>
+
+`"description": "Holla Web Browser by Mert Çetin for Me Force",`<br>
+
+<h4> Google Settings, Location Connection -> https://console.cloud.google.com/</h4>
+<p>First, you need to change the process.env attribute of the main.js file in the application root directory.</p>
+
+`process.env.GOOGLE_API_KEY = 'XXxxXxXXxXX00X0xxx00XXxXx0Xx-xxXXXXxXXx';`<br>
+
+`process.env.GOOGLE_DEFAULT_CLIENT_ID = '000000000000-x00000xxxx0x000xxx0xxxxxxxxxxxx0.apps.googleusercontent.com'`<br>
+
+`process.env.GOOGLE_DEFAULT_CLIENT_SECRET = 'XxxxxXxxX00xx0XXxXxx0xxxX'`<br><br>
+
+
+<h3>Change the width and height</h3>
+<p>Open your application main.js file, after that change the height, width, minHeight, and minWidth values.</p>
+<p><b>mainWindow = new BrowserWindow</b></p>
+
+`title: 'Holla',`<br>
+
+`minWidth: 500,`<br>
+
+`minHeight: 450,`<br>
+
+`backgroundColor: '#FFFFFF',`<br>
+
+`width: 1280,`<br>
+
+`height: 720,`<br>
+
+<p>Recommended: do not change width and height settings</p>
+
+
+<hr>
+
+<h3>Online Documentation – <a href="https://github.com/meforce/holla" rel="nofollow">Click Here</a>
+</h3>
+
+<h3 id="item-description__demo-links-downloads">Demo Links – Downloads</h3>
+<p>macOs – <a href="https://github.com/meforce/holla/releases/download/v3.5.6/Holla-3.5.6.dmg" rel="nofollow">Holla-3.5.6.dmg</a></p>
+
+<p>Linux – <a href="https://github.com/meforce/holla/releases/download/v3.5.6/Holla_3.5.6_amd64.deb" rel="nofollow">Holla_3.5.6_amd64.deb</a> | <a href="https://github.com/meforce/holla/releases/download/v3.5.6/Holla-3.5.6.AppImage" rel="nofollow">Holla-3.5.6.AppImage</a> </p>
+
+<p>Windows – <a href="https://github.com/meforce/holla/releases/download/v3.5.6/Holla-Setup-3.5.6.exe" rel="nofollow">Holla-Setup-3.5.6.exe</a></p>
+
+<hr>
+
+
+<h2 id="item-description__updates">Updates</h2>
+
+<h5><strong>3.5.6 </strong> 05 May 2021 </h5>
+<blockquote>
+<li>[Fixed] First Opening default search engine bug fixed.</li>
+<li>[Added] Factory Reset, Reset App Section Added</li>
+<li>[Fixed] 4+ Reported bugs.</li>
+</blockquote>
+
+<h5><strong>3.5.5 </strong> 01 May 2021 </h5>
+<blockquote>
+<li>[Fixed] Fixed issue with receiving cache settings. The white page error has been resolved when the application runs for the first time.</li>
+<li>[Fixed] Websites background color gray issue resolved</li>
+<li>[Fixed] 5+ Reported bugs.</li>
+</blockquote>
+
+<h5><strong>3.5.4 </strong> 22 April 2021 </h5>
+<blockquote>
+<li>[Added] Multi Language System, TR-EN</li>
+<li>[Update] Electron v11.4.3</li>
+<li>[Update] @cliqz/adblocker-electron v1.20.4</li>
+<li>[Update] Infrastructure Improvements.</li>
+<li>[Update] Design Improvements.</li>
+<li>[Fixed] Fixes on settings page</li>
+<li>[Fixed] Bugs in Mac and Linux operating systems are resolved</li>
+<li>[Fixed] 10+ Reported bugs.</li>
+</blockquote>
+
+
+<h5><strong>3.5.3 </strong> 18 Dec 2020 </h5>
+<blockquote>
+<li>[Added] Added Used Flags Section To Settings.</li>
+<li>[Update] Electron v11.1.0</li>
+<li>[Update] Infrastructure Improvements.</li>
+<li>[Update] Design Improvements.</li>
+<li>[Fixed] Design problems saving bookmarks</li>
+<li>[Fixed] Full Screen Warning Message Edited</li>
+<li>[Fixed] Active, Passive Plugins Created</li>
+<li>[Fixed] 20+ Reported bugs.</li>
+</blockquote>
+
+
+<h5><strong>3.5.2 </strong> 10 Dec 2020 </h5>
+<blockquote>
+<li>[Added] Mac Os Versions Were Included In This Update.</li>
+<li>[Added] From The Settings Page, The Startup Section Is Complete.When Opening The App, Continue Where You Left Off, Continue With The Search Engine Page.</li>
+<li>[Added] Support for google play new requirements.</li>
+<li>[Added] Download Settings And Download Manager Complete.</li>
+<li>[Added] Add-Ons Page Complete, See Add-Ons Active Passive.</li>
+<li>[Update] Electron v11.0.3</li>
+<li>[Update] Electron v11.0.4</li>
+<li>[Fixed] The Save As Function Has Been Made Operational.</li>
+<li>[Fixed] Show Bookmarks Bar Activated.</li>
+<li>[Fixed] Fixed Download Manager Issues.</li>
+<li>[Fixed] Activating Plug-Ins Deactivating Fixed.</li>
+<li>[Fixed] Fixed The Section About Settings Software.</li>
+<li>[Fixed] Fixed The Tab Closure Action.</li>
+<li>[Fixed] 50+ Reported bugs.</li>
+</blockquote>
+
+
+<h5><strong>3.5.1 </strong> 5 Dec 2020 </h5>
+<blockquote>
+<li>[Added] View Page Source.</li>
+<li>[Added] New Menus.</li>
+<li>[Added] Support for google play new requirements.</li>
+<li>[Added] New Top Bar Options.</li>
+<li>[Update] Upgraded to Electron v11.0.2 / Chrome v87</li>
+<li>[Fixed] Fixed Bugs On Additional Drop-Down Pages.</li>
+<li>[Fixed] 10+ Reported bugs.</li>
+</blockquote>
+
+</div>
+
+</body>
+</html>
