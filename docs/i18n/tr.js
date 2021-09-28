@@ -367,5 +367,6 @@ var lg_lang =  {
 "Privacy & Terms": "Gizlilik ve Şartlar",
 "Privacy Terms": "Gizlilik ve Şartlar",
 "Contact Us": "İletişim",
-"Topluluğa Katıl": "Topluluğa Katıl"
+"Topluluğa Katıl": "Topluluğa Katıl",
+"Özellikler": "Özellikler"
 };
