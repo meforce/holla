@@ -11,7 +11,7 @@ Holla Search Engine Web Browser<br>
 <br><br> 
 <!--<img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/meforce/yaani/build?style=for-the-badge">-->
 <a href="https://github.com/meforce/holla/releases/latest">
-<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/meforce/holla?color=tuquoise&label=EN-SON&logo=github&logoColor=white&style=for-the-badge"></a>
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/meforce/holla?color=tuquoise&label=Latest&logo=github&logoColor=white&style=for-the-badge"></a>
 <a href="https://discord.gg/dmWPGE4JFM"><img alt="Discord" src="https://img.shields.io/discord/876934826186395658?color=%237289DA&label=discord&logo=Discord&logoColor=white&style=for-the-badge"></a>
 </p>
 
