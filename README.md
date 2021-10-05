@@ -15,12 +15,10 @@ Holla Search Engine Web Browser<br>
 <a href="https://discord.gg/dmWPGE4JFM"><img alt="Discord" src="https://img.shields.io/discord/876934826186395658?color=%237289DA&label=discord&logo=Discord&logoColor=white&style=for-the-badge"></a>
 </p>
 
-## Application Screenshots
-
-<img width="780" src="https://raw.githubusercontent.com/meforce/holla/main/image/hollanewbanner-min.png"/>
+<img src="https://raw.githubusercontent.com/meforce/holla/main/image/hollanewbanner-min.png"/>
 
 <br><br>
-<img width="780" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-17.jpg"/>
+<img src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-17.jpg"/>
 
 ## Download
 
