@@ -17,33 +17,8 @@ Holla Search Engine Web Browser<br>
 
 ## Application Screenshots
 
-Top Bar Variant: Compact, Tab: New Tab, Theme: Light Theme<br>
-<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-1.jpg"/>
-<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-2.jpg"/><br>
-Top Bar Variant: Compact, Tab: New Tab, Theme: Dark Theme<br>
-<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-3.jpg"/>
-<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-4.jpg"/>
-<br><br>
-Top Bar Variant: Exact, Tab: New Tab, Theme: Light - Dark Theme<br>
-<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-5.jpg"/>
-<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-6.jpg"/><br>
-Open Menu, Open Ad Blocking<br>
-<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-7.jpg"/>
-<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-8.jpg"/>
-<br><br>
-Plugin, Settings<br>
-<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-9.jpg"/>
-<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-10.jpg"/><br>
-History, Saved<br>
-<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-11.jpg"/>
-<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-12.jpg"/>
-<br><br>
-Downloads, Plugins<br>
-<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-13.jpg"/>
-<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-14.jpg"/><br>
-More About the Sites<br>
-<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-15.jpg"/>
-<img width="390" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-16.jpg"/>
+<img width="780" src="https://raw.githubusercontent.com/meforce/holla/main/image/hollanewbanner-min.png"/>
+
 <br><br>
 <img width="780" src="https://raw.githubusercontent.com/meforce/holla/main/image/holla-17.jpg"/>
 
