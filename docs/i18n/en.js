@@ -342,7 +342,7 @@ var lg_lang = {
 "Diğer tarayıcılardan çok daha az işlem kapasitesi kullanırız ve web sayfalarının daha hızlı yüklenmesine yardımcı olan yerleşik bir reklam engelleyicimiz vardır.": "We use much less processing capacity than other browsers and we have a built-in ad blocker that helps web pages load faster.",
 "Gizliliği Artırın": "Increase Privacy",
 "Bize güvenin. Ücretsiz VPN'imiz çevrimiçi izlemeyi azaltır ve gezinirken sizi korur.": "Trust us. Our free VPN reduces online tracking and protects you while you browse.",
-"İletişimde kalın": "stay in touch",
+"İletişimde kalın": "Stay in Touch",
 "Tarayıcınızın kenarında bulunan yerleşik mesajlaşma uygulamalarıyla gezinirken aynı anda sohbet edin. Sekmeler ve uygulamalar arasında geçiş yapmanıza artık gerek yok.": "Chat while browsing with built-in messaging apps at the edge of your browser. No more switching between tabs and apps.",
 "ÜCRETSİZ VPN": "FREE VPN",
 "Yerleşik VPN ile güvenli bir şekilde gezinin": "Surf securely with built-in VPN",
